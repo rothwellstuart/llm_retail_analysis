@@ -190,11 +190,3 @@ The database has the following tables, columns and data types:
 
 # Call UI
 gr.ChatInterface(fn=chat, type="messages").launch()
-
-# ### TO DO
-# 
-#-  Make readme.md
-# - Push to Git
-
-
-
