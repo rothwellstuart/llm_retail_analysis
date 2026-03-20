@@ -1,5 +1,11 @@
+# openai == 2.6.1
 openai
-gradio
+gradio == 5.49.1
+# datasets == 3.6.0
 datasets
+# pandas == 2.3.3
 pandas
+# python-dotenv == 1.2.1
 python-dotenv
+# typing-extensions == 4.15.0
+typing-extensions
